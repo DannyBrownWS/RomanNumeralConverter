@@ -1,0 +1,38 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input-div {
+  border: 1px solid black;
+  margin-bottom: 50px;
+  border-radius: -10px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.input-p {
+  text-align: center;
+}
+
+.input-div-2 {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.output-div {
+  border: 1px solid black;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding: 10px 0;
+}
+
+.hide {
+  display: none;
+}
